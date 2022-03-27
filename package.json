@@ -2,7 +2,7 @@
   "name": "expense-tracker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://bhavesh-gulabani.github.io",
+  "homepage": "https://bhavesh-gulabani.github.io/expense-tracker",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.3",
